@@ -1,16 +1,17 @@
-Speed Limit Set: 80
+Speed Limit Set: 100
 Vehicle Added: car1
 Vehicle Added: car2
 Vehicle Added: bike1
+Vehicle Added: bike2
 
 ========================================
  SMART TRAFFIC VIOLATION ANALYZER
 ========================================
-Speed Limit: 80 km/h
+Speed Limit: 100 km/h
 
 Vehicle: car1
 Speed: 85 km/h
-Status: SPEED VIOLATION
+Status: SAFE
 ----------------------------------------
 Vehicle: car2
 Speed: 50 km/h
@@ -19,6 +20,10 @@ Status: SAFE
 Vehicle: bike1
 Speed: 70 km/h
 Status: SAFE
+----------------------------------------
+Vehicle: bike2
+Speed: 110 km/h
+Status: SPEED VIOLATION
 ----------------------------------------
 
 Parsing Successful
